@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/hyperion-android-grabber.iml" filepath="$PROJECT_DIR$/hyperion-android-grabber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/hyperion-android-grabber-common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/hyperion-android-grabber-common.iml" group="hyperion-android-grabber/common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/hyperion-android-grabber-mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/hyperion-android-grabber-mobile.iml" group="hyperion-android-grabber/mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/hyperion-android-grabber-tv.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/hyperion-android-grabber-tv.iml" group="hyperion-android-grabber/tv" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repos-hyperion-android-grabber.iml" filepath="$PROJECT_DIR$/.idea/modules/repos-hyperion-android-grabber.iml" group="hyperion-android-grabber" />
       <module fileurl="file://$PROJECT_DIR$/tv/tv.iml" filepath="$PROJECT_DIR$/tv/tv.iml" />
     </modules>
   </component>
